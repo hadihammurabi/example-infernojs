@@ -12,7 +12,8 @@
     "jsx": "preserve",
     "noUnusedLocals": true,
     "strictNullChecks": true,
-    "removeComments": false
+    "removeComments": false,
+    "experimentalDecorators": true
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"],
