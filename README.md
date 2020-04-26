@@ -1,5 +1,8 @@
 InfernoJS example with Parcel
 
+![GitHub](https://img.shields.io/github/license/hadihammurabi/example-infernojs)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hadihammurabi/example-infernojs)
+
 # Table of Content
 * [Setup](https://github.com/hadihammurabi/example-infernojs#setup)
   * [Dependencies Installation](https://github.com/hadihammurabi/example-infernojs#dependencies-installation)
